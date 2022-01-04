@@ -1,8 +1,8 @@
 {
-  "airport": "KBOS",
+  "airport": "KPHL",
   "range": 30,
   "delay": 6,
   "floor": 0,
-  "ceiling": 99999,
+  "ceiling":3000,
   "use_flightaware": true
 }
